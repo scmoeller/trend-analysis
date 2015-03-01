@@ -12,5 +12,5 @@ $impPrices = new ImportPrices($dir, $fileName);
 
 $prices = $impPrices->execute();
 
-//print_r($prices);
+print_r($prices);
 

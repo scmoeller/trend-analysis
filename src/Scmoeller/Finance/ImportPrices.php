@@ -8,6 +8,8 @@
 
 namespace Scmoeller\Finance;
 
+require_once 'Money.php';
+
 /**
  * Description of ImportPrices
  *
